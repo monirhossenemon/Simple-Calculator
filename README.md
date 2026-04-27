@@ -12,3 +12,4 @@ A basic Python calculator using functions and loop.
 
 ## Run
 ```bash 
+python calculator.py
