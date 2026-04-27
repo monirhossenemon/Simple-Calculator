@@ -11,4 +11,4 @@ A basic Python calculator using functions and loop.
 - Loop system
 
 ## Run
-```bash
+```bash 
